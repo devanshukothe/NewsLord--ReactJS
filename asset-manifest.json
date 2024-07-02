@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NewsLord--ReactJS/static/css/main.96305a60.css",
+    "main.js": "/NewsLord--ReactJS/static/js/main.98a8359c.js",
+    "static/js/453.74a26706.chunk.js": "/NewsLord--ReactJS/static/js/453.74a26706.chunk.js",
+    "static/media/new.png": "/NewsLord--ReactJS/static/media/new.e875cb66c9e9b07cf308.png",
+    "static/media/loading.gif": "/NewsLord--ReactJS/static/media/loading.816e2b9b9cf8e61a5db0.gif",
+    "static/media/newlord.png": "/NewsLord--ReactJS/static/media/newlord.f0734b012203fbf79a95.png",
+    "index.html": "/NewsLord--ReactJS/index.html",
+    "main.96305a60.css.map": "/NewsLord--ReactJS/static/css/main.96305a60.css.map",
+    "main.98a8359c.js.map": "/NewsLord--ReactJS/static/js/main.98a8359c.js.map",
+    "453.74a26706.chunk.js.map": "/NewsLord--ReactJS/static/js/453.74a26706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96305a60.css",
+    "static/js/main.98a8359c.js"
+  ]
+}
